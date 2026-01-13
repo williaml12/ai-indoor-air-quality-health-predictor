@@ -39,3 +39,11 @@ The Raspberry Pi collects real-time data from multiple air quality and environme
 
 Estimated Cost: ~$120–$150
 
+## 💻 Software Stack
+- Raspberry Pi OS (64-bit)
+- Python
+- OpenCV (optional, for future CV expansion)
+- NumPy / Pandas (data processing)
+- TensorFlow Lite or Scikit-learn (ML inference)
+- Flask or Streamlit (dashboard UI)
+- SQLite or CSV logging for historical analysis
