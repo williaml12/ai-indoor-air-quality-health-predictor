@@ -60,4 +60,4 @@ Example predictions:
 - Low humidity → dry throat, poor sleep
 - High VOCs → headache probability
 
-This transforms raw data into human-centric insights, which is what makes the project innovative.
+This transforms raw data into **human-centric insights**, which is what makes the project innovative.
