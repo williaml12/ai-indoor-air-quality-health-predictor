@@ -55,9 +55,9 @@ The AI component learns from:
 - Time-of-day patterns (sleep vs daytime)
 
 Example predictions:
-- High CO₂ + long exposure → fatigue / poor concentration
-- High PM2.5 → respiratory irritation risk
-- Low humidity → dry throat, poor sleep
-- High VOCs → headache probability
+- **High CO₂ + long exposure → fatigue / poor concentration**
+- **High PM2.5 → respiratory irritation risk**
+- **Low humidity → dry throat, poor sleep**
+- **High VOCs → headache probability** 
 
 This transforms raw data into **human-centric insights**, which is what makes the project innovative.
