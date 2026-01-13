@@ -37,7 +37,7 @@ The Raspberry Pi collects real-time data from multiple air quality and environme
 - Speaker for alerts
 - Enclosure for wall-mount or desktop use
 
-Estimated Cost: ~$120–$150
+**Estimated Cost:** ~$120–$150
 
 ## 💻 Software Stack
 - Raspberry Pi OS (64-bit)
