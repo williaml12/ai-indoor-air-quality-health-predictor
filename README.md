@@ -47,3 +47,17 @@ Estimated Cost: ~$120–$150
 - TensorFlow Lite or Scikit-learn (ML inference)
 - Flask or Streamlit (dashboard UI)
 - SQLite or CSV logging for historical analysis
+
+## 🧪 AI & Health Prediction Logic
+The AI component learns from:
+- Sensor combinations (e.g., high CO₂ + low humidity)
+- Exposure duration (e.g., CO₂ > 1200 ppm for 2+ hours)
+- Time-of-day patterns (sleep vs daytime)
+
+Example predictions:
+- High CO₂ + long exposure → fatigue / poor concentration
+- High PM2.5 → respiratory irritation risk
+- Low humidity → dry throat, poor sleep
+- High VOCs → headache probability
+
+This transforms raw data into human-centric insights, which is what makes the project innovative.
